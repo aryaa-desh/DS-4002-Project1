@@ -8,9 +8,9 @@ We used Windows as our platform.
 
 ### Section 2: Map of Documentation
 Folder: DATA
-  Software_5.json
-  clean_reviews.csv
-  results.csv
+- Software_5.json
+- clean_reviews.csv
+- results.csv
 Folder: SCRIPTS
   modelsetup.ipynb
   preprocessing.ipynb
