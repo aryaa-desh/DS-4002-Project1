@@ -10,7 +10,7 @@ We used Windows as our platform.
 Folder: DATA
 - Software_5.json
 - clean_reviews.csv
-- results.csv
+- metadata.md
 
 Folder: SCRIPTS
 - modelsetup.ipynb
