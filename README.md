@@ -19,5 +19,5 @@ Folder: SCRIPTS
 Folder: OUTPUT
 - output.file
 
-*LICENSE
-*README.md
+LICENSE
+README.md
