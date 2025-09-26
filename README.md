@@ -15,6 +15,7 @@ Folder: SCRIPTS
 - modelsetup.ipynb
 - preprocessing.ipynb
 Folder: OUTPUT
+-output.file
   
 LICENSE
 README.md
