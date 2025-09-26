@@ -13,8 +13,8 @@ Folder: DATA
 - metadata.md
 
 Folder: SCRIPTS
-- modelsetup.ipynb
-- preprocessing.ipynb
+- datapreprocessing1.ipynb
+- modelrunning2.ipynb
 
 Folder: OUTPUT
 - results.csv
@@ -29,9 +29,9 @@ README.md
 #### Section 3: Instructions for Reproducing Results
 1. Navigate to the DATA folder and download the file Software_5.json.
 2. Upload Software_5 file into whatever enviroment you use (e.g. Google Colab or VS Code)
-3. After uploading the file, navigate to the SCRIPTS folder and upload the preprocessing1.ipynb file to the enviroment as well.
-4. After uploading, run the script and wait for it to complete processing.
+3. After uploading the file, navigate to the SCRIPTS folder and upload the datapreprocessing1.ipynb file to the enviroment as well.
+4. After uploading, run the script and wait for it to complete processing.This will create a csv file called clean_reviews.csv.
 5. After running the preprocessing script, navigate once again to the SCRIPTS folder.
 6. There you will see the the file called modelrunning2.ipynb.
 7. Download and then upload this file to the same enviorment you have the data file uploaded to and that you ran the preprocessing script on.
-8. After you upload, run the script modelrunning2.ipynb. WARNING: this can take a long time to run on all rows of the file
+8. After you upload, run the script modelrunning2.ipynb.
