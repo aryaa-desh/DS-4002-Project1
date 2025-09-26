@@ -21,3 +21,6 @@ Folder: OUTPUT
 
 LICENSE<br>
 README.md
+
+#### Section 3: Instructions for Reproducing Results
+1. download the file 
