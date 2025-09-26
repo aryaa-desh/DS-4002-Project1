@@ -23,4 +23,5 @@ LICENSE<br>
 README.md
 
 #### Section 3: Instructions for Reproducing Results
-1. download the file 
+1. Navigate to the DATA folder and download the file software_5.json.
+2. 
