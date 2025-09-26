@@ -15,6 +15,7 @@ Folder: DATA
 Folder: SCRIPTS
 - datapreprocessing1.ipynb
 - modelrunning2.ipynb
+- analysis3.ipynb
 
 Folder: OUTPUT
 - results.csv
