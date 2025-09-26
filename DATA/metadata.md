@@ -1,5 +1,5 @@
 Data Summary:<br>
-- The dataset we are using is called “Amazon Review Data (2018)” from Jianmo Ni at University of California, San Diego. The entire dataset contains over 233 million reviews, but we are specifically using a subset that is the Software “5-core.” This subset only includes reviews for software products with more than 5 reviews. This subset is downloadable as a json file [1].
+- The dataset we are using is called “Amazon Review Data (2018)” from Jianmo Ni at University of California, San Diego. The entire dataset contains over 233 million reviews, but we are specifically using a subset that is the Software “5-core.” This subset only includes reviews for software products with more than 5 reviews. This subset is downloadable as a json file [1].<br>
 Provenance:<br>
 - This dataset is the third version of a dataset of Amazon reviews. The first two versions are from 2013 and 2014. This version adds reviews from 2015-2018. The original data set was created through finding reviews of Amazon products through scraping the Internet Archive [3].
 License:<br>
