@@ -18,6 +18,14 @@ Explanatory Plots:<br>
 <img width="544" height="380" alt="image" src="https://github.com/user-attachments/assets/f95de6a8-82f5-40f5-be47-b82aeb3a92e4" /><br>
 <img width="579" height="294" alt="image" src="https://github.com/user-attachments/assets/00bdd4fa-d5cc-4152-9069-97398f0681a1" />
 
+References:<br>
+[1]J. Ni, “Amazon review data,” nijianmo.github.io, 2018. https://nijianmo.github.io/amazon/index.html
+
+[2] J. Ni, J. Li, J. McAuley, “Empirical Methods in Natural Language Processing (EMNLP)”, 2019
+
+[3]J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013.
+
+
 
 
 
