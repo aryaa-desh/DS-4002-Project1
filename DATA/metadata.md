@@ -1,12 +1,23 @@
 Data Summary:<br>
-- The dataset we are using is called “Amazon Review Data (2018)” from Jianmo Ni at University of California, San Diego. The entire dataset contains over 233 million reviews, but we are specifically using a subset that is the Software “5-core.” This subset only includes reviews for software products with more than 5 reviews. This subset is downloadable as a json file [1].<br>
+- The dataset we are using is called “Amazon Review Data (2018)” from Jianmo Ni at University of California, San Diego. The entire dataset contains over 233 million reviews, but we are specifically using a subset that is the Software “5-core.” This subset only includes reviews for software products with more than 5 reviews. This subset is downloadable as a json file [1].
+
 Provenance:<br>
 - This dataset is the third version of a dataset of Amazon reviews. The first two versions are from 2013 and 2014. This version adds reviews from 2015-2018. The original data set was created through finding reviews of Amazon products through scraping the Internet Archive [3].
+
 License:<br>
-- Ni requests that all uses of the dataset cite the paper “Empirical Methods in Natural Language Processing (EMNLP)” [2]. 
+- Ni requests that all uses of the dataset cite the paper “Empirical Methods in Natural Language Processing (EMNLP)” [2].
+  
 Ethical Statements:<br>
 - Only reviews made publicly available by Amazon will be used. The reviewer names are chosen by users, so no personal information that was not published by them will be used.
 - We acknowledge that sentiment analysis tools may misclassify or amplify bias. Steps will be taken to validate models and note limitations.
+  
 Data Dictionary:<br>
 <img width="852" height="1099" alt="image" src="https://github.com/user-attachments/assets/b0ff2184-e22b-47fc-a544-3f62daf7e4b3" />
+
+Explanatory Plots:<br>
+<img width="544" height="380" alt="image" src="https://github.com/user-attachments/assets/f95de6a8-82f5-40f5-be47-b82aeb3a92e4" /><br>
+<img width="579" height="294" alt="image" src="https://github.com/user-attachments/assets/00bdd4fa-d5cc-4152-9069-97398f0681a1" />
+
+
+
 
