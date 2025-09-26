@@ -17,7 +17,11 @@ Folder: SCRIPTS
 - preprocessing.ipynb
 
 Folder: OUTPUT
-- output.file
+- results.csv
+- sentiment00-06.png
+- sentiment06-12.png
+- sentiment12-18.png
+- sentimentall.png
 
 LICENSE<br>
 README.md
