@@ -17,7 +17,7 @@ Folder: SCRIPTS
 - preprocessing.ipynb
 
 Folder: OUTPUT
--output.file
+- output.file
   
 LICENSE
 README.md
