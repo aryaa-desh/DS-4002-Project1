@@ -11,18 +11,21 @@ Folder: DATA
 - Software_5.json
 - clean_reviews.csv
 - metadata.md
+- results.csv
 
 Folder: SCRIPTS
 - datapreprocessing1.ipynb
 - modelrunning2.ipynb
 - analysis3.ipynb
+- resultsgraph4.ipynb
+- EDAgraphs.ipynb
 
 Folder: OUTPUT
 - results.csv
-- sentiment00-06.png
-- sentiment06-12.png
-- sentiment12-18.png
-- sentimentall.png
+- DS_4002_2000-2006.png
+- DS_4002_2006-2012.png
+- DS_4002_2012-2018.png
+- DS_4002_ALLYEARS.png
 
 LICENSE<br>
 README.md
