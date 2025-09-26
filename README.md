@@ -37,4 +37,6 @@ README.md
 7. Download and then upload this file to the same enviorment you have the data file uploaded to and that you ran the preprocessing script on.
 8. After you upload, run the script modelrunning2.ipynb. This will create a csv called results.csv.
 9. From the SCRIPTS folder, download and then upload the analysis3.ipynb file to the same environment you are using.
-10. Run this script. 
+10. Run this script.
+11. In the SCRIPTS folder, download the resultsgraph4.ipynb file.
+12. Upload this file to the same enviorment you have been using and run the script. This will create four graphs.
