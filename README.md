@@ -11,9 +11,11 @@ Folder: DATA
 - Software_5.json
 - clean_reviews.csv
 - results.csv
+
 Folder: SCRIPTS
 - modelsetup.ipynb
 - preprocessing.ipynb
+
 Folder: OUTPUT
 -output.file
   
