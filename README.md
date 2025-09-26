@@ -12,8 +12,8 @@ Folder: DATA
 - clean_reviews.csv
 - results.csv
 Folder: SCRIPTS
-  modelsetup.ipynb
-  preprocessing.ipynb
+- modelsetup.ipynb
+- preprocessing.ipynb
 Folder: OUTPUT
   
 LICENSE
